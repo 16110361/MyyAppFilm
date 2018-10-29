@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="circle_list">#e1d612</color>
+    <color name="circle_play_now">#139599</color>
+    <color name="circle_new_film">#ff9340</color>
+    <color name="circle_new">#8a638e</color>
+    <color name="lingkaran_spbu">#464343</color>
+    <color name="lingkaran_wisata">#4480b1</color>
+    <color name="lingkaran_kerajinan">#4c8087</color>
+</resources>
