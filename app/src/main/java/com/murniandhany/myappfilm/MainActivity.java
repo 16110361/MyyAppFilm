@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         listView = (ListView) findViewById(R.id.listFilm);
 
-        new CheckConnectionStatus().execute("https://api.themoviedb.org/3/movie/now_playing?api_key=60764a4c9db47fcb98a7d9a338966667");
+        new CheckConnectionStatus().execute("https://api.themoviedb.org/3/movie/now_playing?api_key=78221a25965590753e4f2cb1e4d1c00d");
     }
 
     class CheckConnectionStatus extends AsyncTask<String, Void, String> {
